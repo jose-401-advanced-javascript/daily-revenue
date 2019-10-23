@@ -1,0 +1,26 @@
+{
+  "name": "date-adder",
+  "version": "1.0.0",
+  "description": "",
+  "main": "date-adder.js",
+  "scripts": {
+    "lint": "eslint **/*.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jose-401-advanced-javascript/date-adder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jose-401-advanced-javascript/date-adder/issues"
+  },
+  "homepage": "https://github.com/jose-401-advanced-javascript/date-adder#readme",
+  "dependencies": {
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0"
+  }
+}
